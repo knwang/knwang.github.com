@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://knwang.github.com/sitemap.xml 
