@@ -2,15 +2,19 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://knwang.github.com/blog/2013/01/31/hello-world-just-a-test/</loc>
-        <lastmod>2013-01-31T22:57:41-05:00</lastmod>
+        <lastmod>2013-01-31T23:18:11-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://knwang.github.com/archives/</loc>
+        <lastmod>2013-01-31T23:18:11-05:00</lastmod>
     </url>
     <url>
         <loc>http://knwang.github.com/blog/archives/</loc>
-        <lastmod>2013-01-31T22:57:41-05:00</lastmod>
+        <lastmod>2013-01-31T23:18:11-05:00</lastmod>
     </url>
     <url>
         <loc>http://knwang.github.com/</loc>
-        <lastmod>2013-01-31T22:57:41-05:00</lastmod>
+        <lastmod>2013-01-31T23:18:11-05:00</lastmod>
     </url>
     <url>
         <loc>http://knwang.github.com/robots.txt</loc>
